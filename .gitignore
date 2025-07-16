@@ -1,0 +1,14 @@
+# Ignore Python environment
+envs/
+__pycache__/
+*.pyc
+
+# Ignore system/editor files
+.DS_Store
+.vscode/
+
+# Ignore compiled LaTeX/PDF
+*.aux
+*.log
+*.pdf
+*.out
